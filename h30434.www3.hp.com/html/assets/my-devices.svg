@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;stroke:#707070}.cls-2{fill:none}.cls-3{clip-path:url(#clip-path)}.cls-4{clip-path:url(#clip-path-2)}.cls-5{fill:#0096d6}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h30v30H0z" class="cls-2"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_1" d="M0 0h30v30H0z" class="cls-1" data-name="Rectangle 1" transform="translate(50 45)"/>
+        </clipPath>
+    </defs>
+    <g id="Navigation:_Devices_30" class="cls-3" data-name="Navigation: Devices 30">
+        <g id="Navigation:_Devices_30-2" class="cls-4" data-name="Navigation: Devices 30" transform="translate(-50 -45)">
+            <g id="Devices_RGB_blue_30" transform="translate(50 45.719)">
+                <g id="Feedback_RGB_blue_60">
+                    <g id="Devices_RGB_blue_30-2" data-name="Devices_RGB_blue_30">
+                        <path id="Path_236" d="M4.8 17.412H2.962A2.962 2.962 0 0 1 0 14.45V0h22.786a3.173 3.173 0 0 1 3.173 3.173v1.058h-2.116V3.173a1.058 1.058 0 0 0-1.058-1.058H2.116V14.45a.846.846 0 0 0 .846.846H4.8z" class="cls-5" data-name="Path 236"/>
+                        <path id="Path_237" d="M27.5 28.561H8.917a2.972 2.972 0 0 1-2.729-4.1l.73-2.4V11.636H17.5v2.116H9.034v7.4h15.529zM8.759 23.272l-.6 1.989a.836.836 0 0 0 .762 1.185h15.462l-1.259-3.173z" class="cls-5" data-name="Path 237"/>
+                        <path id="Path_238" d="M30 19.041h-6.157a3.173 3.173 0 0 1-3.173-3.173V6.347h6.157A3.173 3.173 0 0 1 30 9.52zM22.786 8.463v7.4a1.058 1.058 0 0 0 1.058 1.058h4.041V9.52a1.058 1.058 0 0 0-1.058-1.058z" class="cls-5" data-name="Path 238"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
